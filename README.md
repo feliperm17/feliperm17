@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @feliperm17
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on cool stuff
-- 📫 How to reach me: felipe.r.moran@gmail.com
+<h1 align="center">geo</h1>
 
-<!---
-feliperm17/feliperm17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+
+💻 **Linguagens de Programação** :
+Python  |  C  |  C#  |  MySql 
+</br>
+🏫 **Estudante de Ciência da Computação pela UTFPR - Campo Mourão (2022/1-2025/2)**
+</br>
+💻 **Desenvolvedor BackEnd com interrese em C#, Banco de Dados e Estrutura de Dados**
+</br>
+
+
+
+
+ [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipermoran/)
+
+</div>
