@@ -27,7 +27,7 @@ Python  |  C  |  C#  |  MySql
 <br />
 <br />
   <p>
-<img height="100" alt="Running skelly" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Frunning-away-skeleton-scared-gif-14206213&psig=AOvVaw1U5o5aWunyBD74hz-xwi-v&ust=1692731634855000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLC01_C67oADFQAAAAAdAAAAABAE"> 
+<img height="100" alt="Running skelly" src="assets/dnacebaby.gif"> 
 </a>
 </p>
 </td>
