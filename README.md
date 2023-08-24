@@ -3,7 +3,7 @@
 <div align="center">
 
 💻 **Linguagens de Programação** :
-Python  |  C  |  C#  |  MySql 
+Python  |  C  |  C#  |  MySql  | MongoDB
 </br>
 🏫 **Estudante de Ciência da Computação pela UTFPR - Campo Mourão (2022/1-2025/2)**
 </br>
