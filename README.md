@@ -22,7 +22,7 @@ Python  |  C  |  C#  |  MySql  | MongoDB
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <td align="center">
-<a href="https://youtu.be/PgDcpXNSdJs">
+<a href="https://agilemanifesto.org/iso/ptbr/manifesto.html">
 <strong>Bye</strong>
 <br />
 <br />
