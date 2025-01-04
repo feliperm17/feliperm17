@@ -3,11 +3,11 @@
 <div align="center">
 
 💻 **Linguagens de Programação** :
-Python  |  C  |  UniFace  |  MySql 
+Python  |  C  |  UniFace  |  MySql | TS
 </br>
 🏫 **Estudante de Ciência da Computação pela UTFPR - Campo Mourão (2022/1-2026/1)**
 </br>
-💻 **Desenvolvedor BackEnd com interrese em C#, Banco de Dados e Estrutura de Dados**
+💻 **Desenvolvedor BackEnd com interrese em TypeScrypt, Banco de Dados e Estrutura de Dados**
 </br>
 
 
