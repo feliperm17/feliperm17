@@ -2,13 +2,34 @@
 
 <div align="center">
 
-💻 **Linguagens de Programação** :
-Python  |  C  |  UniFace  |  MySql | TS
-</br>
-🏫 **Estudante de Ciência da Computação pela UTFPR - Campo Mourão (2022/1-2026/1)**
-</br>
-💻 **Desenvolvedor BackEnd com interrese em TypeScrypt, Banco de Dados e Estrutura de Dados**
-</br>
+# Felipe Roskosz Moran
+
+## 💻 Backend Developer & Machine Learning Enthusiast
+
+**Programming Languages**:
+- Python 
+- C 
+- UniFace
+- MySQL
+- TypeScript
+
+## 🎓 Education
+**Computer Science at UTFPR - Campo Mourão (2022/1-2026/1)**
+- Federal University of Technology - Paraná
+- Focus on software development and artificial intelligence
+
+## 🚀 Current Focus
+- Machine Learning algorithms and applications
+- Backend development best practices
+- Data structures and algorithms
+- Building scalable applications
+
+## 🔗 Let's Connect
+- LinkedIn: www.linkedin.com/in/felipermoran
+- Email: Felipe.r.moran@gmail.com
+
+---
+Feel free to reach out for collaborations or just a chat about tech! 👋
 
 
 
