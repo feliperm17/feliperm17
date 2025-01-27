@@ -2,8 +2,6 @@
 
 <div align="center">
 
-# Felipe Roskosz Moran
-
 ## 💻 Backend Developer & Machine Learning Enthusiast
 
 **Programming Languages**:
