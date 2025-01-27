@@ -14,17 +14,12 @@
 ## 🎓 Education
 **Computer Science at UTFPR - Campo Mourão (2022/1-2026/1)**
 - Federal University of Technology - Paraná
-- Focus on software development and artificial intelligence
-
+  
 ## 🚀 Current Focus
 - Machine Learning algorithms and applications
 - Backend development best practices
 - Data structures and algorithms
 - Building scalable applications
-
-## 🔗 Let's Connect
-- LinkedIn: www.linkedin.com/in/felipermoran
-- Email: Felipe.r.moran@gmail.com
 
 ---
 Feel free to reach out for collaborations or just a chat about tech! 👋
